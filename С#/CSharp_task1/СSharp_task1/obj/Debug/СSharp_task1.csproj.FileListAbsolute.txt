@@ -1,0 +1,9 @@
+c:\users\ilya\documents\visual studio 2015\Projects\СSharp_task1\СSharp_task1\bin\Debug\СSharp_task1.exe.config
+c:\users\ilya\documents\visual studio 2015\Projects\СSharp_task1\СSharp_task1\obj\Debug\СSharp_task1.csprojResolveAssemblyReference.cache
+c:\users\ilya\documents\visual studio 2015\Projects\СSharp_task1\СSharp_task1\obj\Debug\СSharp_task1.Form1.resources
+c:\users\ilya\documents\visual studio 2015\Projects\СSharp_task1\СSharp_task1\obj\Debug\СSharp_task1.Properties.Resources.resources
+c:\users\ilya\documents\visual studio 2015\Projects\СSharp_task1\СSharp_task1\obj\Debug\СSharp_task1.csproj.GenerateResource.Cache
+c:\users\ilya\documents\visual studio 2015\Projects\СSharp_task1\СSharp_task1\bin\Debug\СSharp_task1.exe
+c:\users\ilya\documents\visual studio 2015\Projects\СSharp_task1\СSharp_task1\bin\Debug\СSharp_task1.pdb
+c:\users\ilya\documents\visual studio 2015\Projects\СSharp_task1\СSharp_task1\obj\Debug\СSharp_task1.exe
+c:\users\ilya\documents\visual studio 2015\Projects\СSharp_task1\СSharp_task1\obj\Debug\СSharp_task1.pdb

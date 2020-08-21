@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2015\Projects\Prim\Prim\bin\Debug\Prim.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Prim\Prim\bin\Debug\Prim.exe
+c:\users\user\documents\visual studio 2015\Projects\Prim\Prim\bin\Debug\Prim.pdb
+c:\users\user\documents\visual studio 2015\Projects\Prim\Prim\obj\Debug\Prim.exe
+c:\users\user\documents\visual studio 2015\Projects\Prim\Prim\obj\Debug\Prim.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Prim\Prim\obj\Debug\Prim.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Prim\Prim\bin\Debug\System.ValueTuple.dll

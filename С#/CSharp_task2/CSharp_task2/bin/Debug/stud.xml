@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<ArrayOfBachelor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Bachelor>
+    <Name>Роман</Name>
+    <Surname>Миков</Surname>
+    <Faculty>мм</Faculty>
+  </Bachelor>
+  <Bachelor>
+    <Name>Илья</Name>
+    <Surname>Зимин</Surname>
+    <Faculty>мм</Faculty>
+  </Bachelor>
+  <Bachelor>
+    <Name>Костя</Name>
+    <Surname>Миронов</Surname>
+    <Faculty>физ</Faculty>
+  </Bachelor>
+  <Bachelor xsi:type="Master">
+    <Name>Илья</Name>
+    <Surname>Миков</Surname>
+    <Faculty>мм</Faculty>
+    <GraduationYear>2005</GraduationYear>
+    <TypeDegree>Диплом с отличием</TypeDegree>
+  </Bachelor>
+</ArrayOfBachelor>

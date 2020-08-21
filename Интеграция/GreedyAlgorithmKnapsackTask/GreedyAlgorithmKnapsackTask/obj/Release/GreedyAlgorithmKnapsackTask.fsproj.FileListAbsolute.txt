@@ -1,0 +1,11 @@
+C:\Users\Илья\source\repos\GreedyAlgorithmKnapsackTask\GreedyAlgorithmKnapsackTask\bin\Release\GreedyAlgorithmKnapsackTask.XML
+C:\Users\Илья\source\repos\GreedyAlgorithmKnapsackTask\GreedyAlgorithmKnapsackTask\bin\Release\GreedyAlgorithmKnapsackTask.dll
+C:\Users\Илья\source\repos\GreedyAlgorithmKnapsackTask\GreedyAlgorithmKnapsackTask\bin\Release\GreedyAlgorithmKnapsackTask.pdb
+C:\Users\Илья\source\repos\GreedyAlgorithmKnapsackTask\GreedyAlgorithmKnapsackTask\bin\Release\FSharp.Core.dll
+C:\Users\Илья\source\repos\GreedyAlgorithmKnapsackTask\GreedyAlgorithmKnapsackTask\bin\Release\KnapsackInterface.dll
+C:\Users\Илья\source\repos\GreedyAlgorithmKnapsackTask\GreedyAlgorithmKnapsackTask\bin\Release\System.ValueTuple.dll
+C:\Users\Илья\source\repos\GreedyAlgorithmKnapsackTask\GreedyAlgorithmKnapsackTask\bin\Release\FSharp.Core.xml
+C:\Users\Илья\source\repos\GreedyAlgorithmKnapsackTask\GreedyAlgorithmKnapsackTask\bin\Release\ru\FSharp.Core.resources.dll
+C:\Users\Илья\source\repos\GreedyAlgorithmKnapsackTask\GreedyAlgorithmKnapsackTask\obj\Release\GreedyAlgorithmKnapsackTask.fsproj.CopyComplete
+C:\Users\Илья\source\repos\GreedyAlgorithmKnapsackTask\GreedyAlgorithmKnapsackTask\obj\Release\GreedyAlgorithmKnapsackTask.dll
+C:\Users\Илья\source\repos\GreedyAlgorithmKnapsackTask\GreedyAlgorithmKnapsackTask\obj\Release\GreedyAlgorithmKnapsackTask.pdb

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\c++ projects\lasthomeworkcpp\lasthomeworkcpp\source.cpp(38): warning C4101: k: неиспользованная локальная переменная
+  LastHomeWorkCpp.vcxproj -> D:\C++ projects\LastHomeWorkCpp\Debug\LastHomeWorkCpp.exe
+  LastHomeWorkCpp.vcxproj -> D:\C++ projects\LastHomeWorkCpp\Debug\LastHomeWorkCpp.pdb (Full PDB)

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<ArrayOfBachelor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Bachelor>
+    <Name>Николай</Name>
+    <Surname>Тимофеев</Surname>
+    <Faculty>ММФ</Faculty>
+  </Bachelor>
+  <Bachelor>
+    <Name>Андрей</Name>
+    <Surname>Иванов</Surname>
+    <Faculty>ИПФ</Faculty>
+  </Bachelor>
+  <Bachelor xsi:type="Master">
+    <Name>Игнат</Name>
+    <Surname>Волков</Surname>
+    <Faculty>ММФ</Faculty>
+    <GraduationYear>2007</GraduationYear>
+    <TypeDegree>Стандартный диплом</TypeDegree>
+  </Bachelor>
+  <Bachelor xsi:type="Master">
+    <Name>Михаил</Name>
+    <Surname>Иволгин</Surname>
+    <Faculty>ММФ</Faculty>
+    <GraduationYear>2015</GraduationYear>
+    <TypeDegree>Диплом с отличием</TypeDegree>
+  </Bachelor>
+  <Bachelor>
+    <Name>Игнат</Name>
+    <Surname>Фокин</Surname>
+    <Faculty>ФСФ</Faculty>
+  </Bachelor>
+</ArrayOfBachelor>

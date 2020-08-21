@@ -1,0 +1,13 @@
+C:\Users\Илья\source\repos\Integration\Integration\bin\Release\Integration.exe.config
+C:\Users\Илья\source\repos\Integration\Integration\bin\Release\Integration.exe
+C:\Users\Илья\source\repos\Integration\Integration\bin\Release\Integration.pdb
+C:\Users\Илья\source\repos\Integration\Integration\bin\Release\KnapsackInterface.dll
+C:\Users\Илья\source\repos\Integration\Integration\obj\Release\Integration.csprojResolveAssemblyReference.cache
+C:\Users\Илья\source\repos\Integration\Integration\obj\Release\Integration.MainForm.resources
+C:\Users\Илья\source\repos\Integration\Integration\obj\Release\Integration.Properties.Resources.resources
+C:\Users\Илья\source\repos\Integration\Integration\obj\Release\Integration.UpsertThingFrm.resources
+C:\Users\Илья\source\repos\Integration\Integration\obj\Release\Integration.csproj.GenerateResource.cache
+C:\Users\Илья\source\repos\Integration\Integration\obj\Release\Integration.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\Integration\Integration\obj\Release\Integration.csproj.CopyComplete
+C:\Users\Илья\source\repos\Integration\Integration\obj\Release\Integration.exe
+C:\Users\Илья\source\repos\Integration\Integration\obj\Release\Integration.pdb

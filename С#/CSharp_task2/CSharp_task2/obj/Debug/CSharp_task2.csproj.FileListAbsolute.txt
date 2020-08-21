@@ -1,0 +1,32 @@
+c:\users\ilya\documents\visual studio 2015\Projects\CSharp_task2\CSharp_task2\bin\Debug\CSharp_task2.exe.config
+C:\Users\ILYA\Documents\Visual Studio 2015\Projects\CSharp_task2\CSharp_task2\bin\Debug\CSharp_task2.exe
+C:\Users\ILYA\Documents\Visual Studio 2015\Projects\CSharp_task2\CSharp_task2\bin\Debug\CSharp_task2.pdb
+C:\Users\ILYA\Documents\Visual Studio 2015\Projects\CSharp_task2\CSharp_task2\obj\Debug\CSharp_task2.csprojResolveAssemblyReference.cache
+C:\Users\ILYA\Documents\Visual Studio 2015\Projects\CSharp_task2\CSharp_task2\obj\Debug\CSharp_task2.frmStudents.resources
+C:\Users\ILYA\Documents\Visual Studio 2015\Projects\CSharp_task2\CSharp_task2\obj\Debug\CSharp_task2.Properties.Resources.resources
+C:\Users\ILYA\Documents\Visual Studio 2015\Projects\CSharp_task2\CSharp_task2\obj\Debug\CSharp_task2.csproj.GenerateResource.Cache
+C:\Users\ILYA\Documents\Visual Studio 2015\Projects\CSharp_task2\CSharp_task2\obj\Debug\CSharp_task2.exe
+C:\Users\ILYA\Documents\Visual Studio 2015\Projects\CSharp_task2\CSharp_task2\obj\Debug\CSharp_task2.pdb
+C:\Users\ILYA\Documents\Visual Studio 2015\Projects\CSharp_task2\CSharp_task2\obj\Debug\CSharp_task2.CloseFrm.resources
+C:\Users\Илья\Desktop\CSharp_task2\CSharp_task2\bin\Debug\CSharp_task2.exe.config
+C:\Users\Илья\Desktop\CSharp_task2\CSharp_task2\bin\Debug\CSharp_task2.exe
+C:\Users\Илья\Desktop\CSharp_task2\CSharp_task2\bin\Debug\CSharp_task2.pdb
+C:\Users\Илья\Desktop\CSharp_task2\CSharp_task2\obj\Debug\CSharp_task2.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Desktop\CSharp_task2\CSharp_task2\obj\Debug\CSharp_task2.CloseFrm.resources
+C:\Users\Илья\Desktop\CSharp_task2\CSharp_task2\obj\Debug\CSharp_task2.frmStudents.resources
+C:\Users\Илья\Desktop\CSharp_task2\CSharp_task2\obj\Debug\CSharp_task2.Properties.Resources.resources
+C:\Users\Илья\Desktop\CSharp_task2\CSharp_task2\obj\Debug\CSharp_task2.csproj.GenerateResource.Cache
+C:\Users\Илья\Desktop\CSharp_task2\CSharp_task2\obj\Debug\CSharp_task2.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\CSharp_task2\CSharp_task2\obj\Debug\CSharp_task2.exe
+C:\Users\Илья\Desktop\CSharp_task2\CSharp_task2\obj\Debug\CSharp_task2.pdb
+C:\Users\Илья\Documents\СЯП\CSharp_task2_Да\CSharp_task2\bin\Debug\CSharp_task2.exe.config
+C:\Users\Илья\Documents\СЯП\CSharp_task2_Да\CSharp_task2\bin\Debug\CSharp_task2.exe
+C:\Users\Илья\Documents\СЯП\CSharp_task2_Да\CSharp_task2\bin\Debug\CSharp_task2.pdb
+C:\Users\Илья\Documents\СЯП\CSharp_task2_Да\CSharp_task2\obj\Debug\CSharp_task2.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Documents\СЯП\CSharp_task2_Да\CSharp_task2\obj\Debug\CSharp_task2.CloseFrm.resources
+C:\Users\Илья\Documents\СЯП\CSharp_task2_Да\CSharp_task2\obj\Debug\CSharp_task2.frmStudents.resources
+C:\Users\Илья\Documents\СЯП\CSharp_task2_Да\CSharp_task2\obj\Debug\CSharp_task2.Properties.Resources.resources
+C:\Users\Илья\Documents\СЯП\CSharp_task2_Да\CSharp_task2\obj\Debug\CSharp_task2.csproj.GenerateResource.cache
+C:\Users\Илья\Documents\СЯП\CSharp_task2_Да\CSharp_task2\obj\Debug\CSharp_task2.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Documents\СЯП\CSharp_task2_Да\CSharp_task2\obj\Debug\CSharp_task2.exe
+C:\Users\Илья\Documents\СЯП\CSharp_task2_Да\CSharp_task2\obj\Debug\CSharp_task2.pdb
